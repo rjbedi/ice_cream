@@ -1,0 +1,42 @@
+{
+
+    "icecreams": [
+        {
+            
+                "name": "Strawberry",
+                "description": "This is very tasty and made with natural flavours.",
+                "toppings": ["Chocolate Sauce", "Sprinkles", "Whipped Cream"],
+                "price": "Rs. 30",
+                "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "ingredients": [
+                    {"name": "Strawberry", "quantity": "1kg"},
+                    {"name": "Water", "quantity": "1l"},
+                    {"name": "Sugar", "quantity": "1kg"}
+                ]
+            },
+        {
+            "name": "Vanilla",
+            "description":"This is very tasty and made with natural flavours.",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whipped Cream"],
+            "price": "Rs. 20",
+            "image": "https://images.unsplash.com/photo-1600239448128-917653c5bf77?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                    {"name": "Strawberry", "quantity": "1kg"},
+                    {"name": "Water", "quantity": "1l"},
+                    {"name": "Sugar", "quantity": "1kg"}
+                ]
+        },
+        {
+            "name": "Chocolate",
+            "description":"This is very tasty and made with natural flavours.",
+            "toppings": ["Chocolate Sauce", "Sprinkles", "Whipped Cream"],
+            "price": "Rs. 40",
+            "image": "https://unsplash.com/photos/brown-and-white-ice-cream-cup-itmLEvnG4jM",
+            "ingredients": [
+                    {"name": "Strawberry", "quantity": "1kg"},
+                    {"name": "Water", "quantity": "1l"},
+                    {"name": "Sugar", "quantity": "1kg"}
+                ]
+        }        
+    ]   
+}

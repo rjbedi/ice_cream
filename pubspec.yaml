@@ -1,0 +1,38 @@
+name: ice_cream  # The name of your Flutter project
+description: "A new Flutter project."  # A brief description of your project
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1  # Version format: major.minor.patch+build number
+
+# Environment settings for the Dart SDK version
+environment:
+  sdk: ^3.5.4  # Specify the Dart SDK version your project is using
+
+# The dependencies your project needs to work. Flutter SDK is essential.
+dependencies:
+  flutter:
+    sdk: flutter  # Indicates that the Flutter SDK should be used
+
+  # Other third-party packages you are using
+  cupertino_icons: ^1.0.8  # Cupertino icons for iOS style icons
+  google_fonts: ^6.2.1  # Google Fonts package for custom fonts
+
+# Development dependencies are used only during development and testing
+dev_dependencies:
+  flutter_test:
+    sdk: flutter  # Package for testing Flutter apps
+
+  flutter_lints: ^4.0.0  # Lints package to encourage good coding practices
+
+# Flutter-specific configurations for the project
+flutter:
+  # Specifies that Material Design icons should be used in the app
+  uses-material-design: true  
+
+  # The assets section is where you define the files you want to include in your app
+  assets:
+    - assets/  # Indicates that all files inside the 'assets' folder will be included
